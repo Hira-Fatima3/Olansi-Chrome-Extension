@@ -1,0 +1,15 @@
+{
+   "browser_action": {
+      "default_icon": "icon_active.png",
+      "default_popup": "popup.html",
+	  "default_title": "Olansi Healthcare"
+   },
+   "description": "Olansi Healthcare is a professional home,portable,desktop air purifier, hydrogen water bottle, water maker manufacturer from China.",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "manifest_version": 2,
+   "name": "Olansi Healthcare",
+   "version": "1.2"
+}
